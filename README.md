@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 👋 Xin chào, mình là Bàn Văn Huy
 💻 Sinh viên ngành Công nghệ Thông tin
 🔧 Kỹ năng: Java, Python, HTML/CSS, React, SQL,...
@@ -16,6 +17,40 @@ Xác thực	JWT, Google OAuth 2.0, Facebook Login
 AI Chatbot	Gemini API + FAISS
 Dev Tools	Postman, GitHub, VSCode
 🚀 Hướng dẫn chạy dự án
+=======
+# 👋 Xin chào, mình là **Bàn Văn Huy**
+
+- 💻 Sinh viên ngành **Công nghệ Thông tin**
+- 🔧 **Kỹ năng**: Java, Python, HTML/CSS, React, SQL,...
+- 🧰 **Công cụ**: VSCode, Git, Postman, Figma,...
+- 📚 **Dự án tiêu biểu**: Website quản lý cửa hàng điện thoại
+
+---
+
+## 📱 Tên dự án: **Quản lý cửa hàng điện thoại**
+
+### 🔥 Mô tả
+Website bán smartphone với đầy đủ tính năng: quản lý sản phẩm, đơn hàng, thanh toán, mã giảm giá, chatbot AI, đăng nhập Google/Facebook, phân quyền Admin/User, responsive UI,...
+
+---
+
+## 🛠️ Công nghệ sử dụng
+
+| Layer | Tech stack |
+|-------|------------|
+| **Frontend** | ReactJS + Vite + TailwindCSS |
+| **Backend** | Node.js + Express |
+| **Database** | MongoDB + Mongoose |
+| **Xác thực** | JWT, Google OAuth 2.0, Facebook Login |
+| **AI Chatbot** | Gemini API + FAISS |
+| **Dev Tools** | Postman, GitHub, VSCode |
+
+---
+
+## 🚀 Hướng dẫn chạy dự án
+
+```bash
+>>>>>>> 7479b09 (change README)
 # 1. Clone project
 git clone https://github.com/huytapcod/banvanhuy.git
 cd banvanhuy
@@ -81,3 +116,7 @@ npm run start
 Tên               	Vai trò
 Nguyễn Thanh Qui	  UI/UX, Quản lý đơn hàng, sản phẩm
 Bàn Văn Huy	        Fullstack, AI, Authentication
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7479b09 (change README)
